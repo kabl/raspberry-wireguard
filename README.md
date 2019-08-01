@@ -1,6 +1,6 @@
 # RASPBERRY PI 4 as WireGuard VPN server
 
-Goal: Setup the RASPBERRY PI 4 as VPN server. Clients can establish secure VPN tunnel to the VPN server. Clients will have then internet access through the VPN tunnel.
+Goal: Setup the RASPBERRY PI 4 as VPN server. Clients can establish a secure VPN tunnel to the VPN server. Clients then have internet access through the VPN tunnel.
 
 Setup:
 
