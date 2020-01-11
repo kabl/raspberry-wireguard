@@ -107,7 +107,7 @@ sudo wg-quick up wg0-client
 Hint: Androids `WireGuard` app can import a wireguard configuration over QR code.
 
 ```bash
-qrencode -t ASCIIi -r wg0-client.conf
+qrencode -t ansiutf8 -r wg0-client.conf
 ```
 
 ## Inspiration
